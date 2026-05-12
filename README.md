@@ -32,7 +32,6 @@ Junior IoT / Embedded Developer focused on C/C++, ESP8266, Linux and real-world 
 - Linux (Ubuntu)
 - Git / GitHub
 - PlatformIO
-- Arduino IDE
 - Visual Studio
 
 ### Electronics
